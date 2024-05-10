@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 꾸준한 연습장 # the main title
+title: 꾸준히 연습장 # the main title
 
 tagline: 기록은 나의 힘이 될거야 # it will display as the sub-title
 
@@ -27,8 +27,8 @@ url: "https://Ramsr-git.github.io"
 github:
   username: Ramsr-git # change to your github username
 
-# twitter:
-#   username:  # change to your twitter username
+twitter:
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -85,7 +85,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
